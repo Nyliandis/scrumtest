@@ -6,6 +6,6 @@ yolo yala !!!
 <<<<<<< HEAD
 test mergesssssss
 =======
-test mergessssssspremiere modifseconde modif
+test mergessssssspremiere seconde modif
 >>>>>>> mabranche2
 >>>>>>> mabranche
